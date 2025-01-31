@@ -1,5 +1,5 @@
 # Workshop-7
-
+https://mirow-l.github.io/Workshop-7/
 
 ## Start me up (31/1/25)
 - Watching Leo's video guide, quite interested to see the limits of what a simulkation swarm might be capable of, especially withing the limits of p5.js or VS Code. Earlier on I had checked out this guide on p5.js which was really incredibel to me: https://p5js.org/examples/classes-and-objects-flocking/
